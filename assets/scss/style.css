@@ -1,6 +1,13 @@
-.col {
-  -webkit-box-shadow: -8px -5px 12px -4px rgba(0, 0, 0, 0.4);
-  box-shadow: -8px -5px 12px -4px rgba(0, 0, 0, 0.4);
-  background-color: red;
+body {
+  background-color: lightgray;
+}
+
+.mycol {
+  border-radius: 10px;
+  background-color: white;
+}
+
+.row {
+  margin-top: 5%;
 }
 /*# sourceMappingURL=style.css.map */
