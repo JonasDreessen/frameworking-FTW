@@ -1,5 +1,10 @@
-#Hard
 
-het uitlijnen van de navbar (moet nog gebeuren)
-de boxshadow, achtergronden etc lukken niet, css file lijkt niet te reageren op de index.html
-Het grid systeem is nog niet helemaal duidelijk. 
+# Bootstrap 4.0
+## Hard
+
+1. Uitlijnen (grid). 
+2. De tekst zelf correct plaatsen en binnenin de containers houden. 
+
+## Easy
+
+1. Invoegen van buttons en voorgemaakte stijl elementen.
