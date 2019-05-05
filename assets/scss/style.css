@@ -1,13 +1,26 @@
 body {
-  background-color: lightgray;
+  background-color: #ffffff;
 }
 
-.mycol {
-  border-radius: 10px;
-  background-color: white;
+.col-info {
+  border-radius: 20px;
+  padding: 15px;
+  border: 2px darkgrey solid;
 }
 
-.row {
-  margin-top: 5%;
+.nav-link {
+  font-size: 1.3em;
+  color: black;
+  font-weight: bold;
+}
+
+.nav-link a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.companybrand {
+  font-size: 1.3em;
 }
 /*# sourceMappingURL=style.css.map */
