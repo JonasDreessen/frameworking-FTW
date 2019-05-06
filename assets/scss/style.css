@@ -1,26 +1,2 @@
-body {
-  background-color: #ffffff;
-}
 
-.col-info {
-  border-radius: 20px;
-  padding: 15px;
-  border: 2px darkgrey solid;
-}
-
-.nav-link {
-  font-size: 1.3em;
-  color: black;
-  font-weight: bold;
-}
-
-.nav-link a {
-  text-decoration: none;
-  color: black;
-  font-weight: bold;
-}
-
-.companybrand {
-  font-size: 1.3em;
-}
 /*# sourceMappingURL=style.css.map */
